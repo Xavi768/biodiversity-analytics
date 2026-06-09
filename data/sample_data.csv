@@ -1,0 +1,25 @@
+species_name,abundance,habitat_type,ecosystem_service_type
+Quercus robur,45,bosque,Aprovisionamiento
+Pinus sylvestris,38,bosque,Aprovisionamiento
+Fagus sylvatica,32,bosque,Regulación
+Betula pendula,28,mixto,Regulación
+Acer platanoides,25,mixto,Culturales
+Tilia cordata,22,urbano,Culturales
+Fraxinus excelsior,20,bosque,Aprovisionamiento
+Ulmus glabra,18,bosque,Soporte
+Populus tremula,15,mixto,Regulación
+Salix alba,12,ribereño,Regulación
+Carpinus betulus,10,bosque,Soporte
+Alnus glutinosa,9,ribereño,Regulación
+Corylus avellana,8,matorral,Aprovisionamiento
+Ilex aquifolium,7,bosque,Culturales
+Sorbus aucuparia,6,bosque,Aprovisionamiento
+Prunus avium,5,bosque,Aprovisionamiento
+Malus sylvestris,4,mixto,Aprovisionamiento
+Pyrus pyraster,4,bosque,Aprovisionamiento
+Taxus baccata,3,bosque,Culturales
+Juniperus communis,3,matorral,Culturales
+Hedera helix,15,bosque,Soporte
+Rubus fruticosus,12,matorral,Aprovisionamiento
+Vaccinium myrtillus,8,bosque,Aprovisionamiento
+Calluna vulgaris,6,matorral,Soporte
