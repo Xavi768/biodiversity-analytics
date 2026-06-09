@@ -131,9 +131,9 @@ def main():
     fig1 = plot_diversity_bar_chart(indices_df, title="Índices de Diversidad")
     print("  ✓ Gráfico de barras generado")
     
-    # Gráfico de abundancia
-    fig2 = plot_species_abundance(df, top_n=10, title="Top 10 Especies por Abundancia")
-    print("  ✓ Gráfico de abundancia generado")
+    # Gráfico de abundancia - mostrar todas las especies para consistencia
+    fig2 = plot_species_abundance(df, top_n=None, title="Abundancia de Todas las Especies")
+    print("  ✓ Gráfico de abundancia generado (todas las especies)")
     
     # Visualización artística
     fig3 = create_artistic_visualization(
